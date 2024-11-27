@@ -1,0 +1,15 @@
+/home/david/david-progamming-1400/lab-11-atm-machine-StrawmanDave/bin/Debug/net8.0/lab-11-atm-machine-StrawmanDave
+/home/david/david-progamming-1400/lab-11-atm-machine-StrawmanDave/bin/Debug/net8.0/lab-11-atm-machine-StrawmanDave.deps.json
+/home/david/david-progamming-1400/lab-11-atm-machine-StrawmanDave/bin/Debug/net8.0/lab-11-atm-machine-StrawmanDave.runtimeconfig.json
+/home/david/david-progamming-1400/lab-11-atm-machine-StrawmanDave/bin/Debug/net8.0/lab-11-atm-machine-StrawmanDave.dll
+/home/david/david-progamming-1400/lab-11-atm-machine-StrawmanDave/bin/Debug/net8.0/lab-11-atm-machine-StrawmanDave.pdb
+/home/david/david-progamming-1400/lab-11-atm-machine-StrawmanDave/obj/Debug/net8.0/lab-11-atm-machine-StrawmanDave.GeneratedMSBuildEditorConfig.editorconfig
+/home/david/david-progamming-1400/lab-11-atm-machine-StrawmanDave/obj/Debug/net8.0/lab-11-atm-machine-StrawmanDave.AssemblyInfoInputs.cache
+/home/david/david-progamming-1400/lab-11-atm-machine-StrawmanDave/obj/Debug/net8.0/lab-11-atm-machine-StrawmanDave.AssemblyInfo.cs
+/home/david/david-progamming-1400/lab-11-atm-machine-StrawmanDave/obj/Debug/net8.0/lab-11-atm-machine-StrawmanDave.csproj.CoreCompileInputs.cache
+/home/david/david-progamming-1400/lab-11-atm-machine-StrawmanDave/obj/Debug/net8.0/lab-11-atm-machine-StrawmanDave.sourcelink.json
+/home/david/david-progamming-1400/lab-11-atm-machine-StrawmanDave/obj/Debug/net8.0/lab-11-atm-machine-StrawmanDave.dll
+/home/david/david-progamming-1400/lab-11-atm-machine-StrawmanDave/obj/Debug/net8.0/refint/lab-11-atm-machine-StrawmanDave.dll
+/home/david/david-progamming-1400/lab-11-atm-machine-StrawmanDave/obj/Debug/net8.0/lab-11-atm-machine-StrawmanDave.pdb
+/home/david/david-progamming-1400/lab-11-atm-machine-StrawmanDave/obj/Debug/net8.0/lab-11-atm-machine-StrawmanDave.genruntimeconfig.cache
+/home/david/david-progamming-1400/lab-11-atm-machine-StrawmanDave/obj/Debug/net8.0/ref/lab-11-atm-machine-StrawmanDave.dll
