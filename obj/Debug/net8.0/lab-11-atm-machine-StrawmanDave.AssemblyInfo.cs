@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("lab-11-atm-machine-StrawmanDave")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dd281426dd6e11997a0dd96f235e082226cfc052")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1847fd5f5b60dff2893e84a71e7b089bcf5e8dbe")]
 [assembly: System.Reflection.AssemblyProductAttribute("lab-11-atm-machine-StrawmanDave")]
 [assembly: System.Reflection.AssemblyTitleAttribute("lab-11-atm-machine-StrawmanDave")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
